@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Milk warning: " + milk.showWarning());
         System.out.println("Flour discount: " + flour.getBulkDiscount());
         System.out.println("Flour warning: " + flour.showWarning());
+
     }
 }
