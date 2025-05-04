@@ -1,6 +1,7 @@
 package Homework4.A1;
 
 public class Milk extends PopularGrocery {
+
     public Milk(int quantity, int discountThreshold, int popularityLevel) {
         super(popularityLevel);
         this.discountThreshold = discountThreshold;
